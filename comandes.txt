@@ -1,8 +1,0 @@
-sudo cp /library/webserver/documents/index.html.en /users/davidcara/desktop/index.html.en
-
-sudo cp /users/davidcara/desktop/index.html.en /library/webserver/documents/index.html.en
-
-sudo apachectl stop
-
-
-http://localhost/httpServer/

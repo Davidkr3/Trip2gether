@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="group.lis.uab.trip2gether.controller.TripList">
+
+    <item android:id="@+id/addTrip"
+        android:icon="@drawable/add"
+        android:title="@string/addTitle"
+        app:showAsAction="ifRoom"
+        android:layout_height= "match_parent"/>
+</menu>
